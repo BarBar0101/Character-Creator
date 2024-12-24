@@ -221,7 +221,7 @@ function preload() {
 
 function setup() {
 	myCanvas = createCanvas(1200, 800);
-	background("#ffffff");
+	background("#efefef");
 	
 	//random
 btnRandom = new imageButton("random.button.png", 100 , 100);
